@@ -52,7 +52,7 @@ TfidfVectorizer()
 
 ### 📈 Model
 - Used `LogisticRegression` for classification.
-- Achieved **100% accuracy** on the test set.
+- Achieved **100% accuracy** on the test set. ( very small dataset of 100 rows, out of it 20 were for test samples )
 
 ### ✅ Evaluation
 - Classification report with precision, recall, F1-score.
